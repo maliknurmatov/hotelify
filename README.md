@@ -1,0 +1,2 @@
+# hotelify
+Hotels API
